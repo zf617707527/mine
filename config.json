@@ -21,11 +21,22 @@
         "大作业" : "https://zf617707527.github.io/-/"
     },
     "icons": {
-        "Github" : {
-            "icon_src" : "images/github.svg",
-            "href" : "https://github.com/imuncle/gitblog",
-            "hidden_img" : null,
-            "width" : 0
-        }
+        "Github": {
+            "icon_src": "images/github.svg",
+            "hidden_img": null,
+            "width": 0
+        },
+        "Wechart": {
+            "icon_src": "images/wechart.svg",
+            "href": null,
+            "hidden_img": "images/wechart-qrcode.jpg",
+            "width": 130
+        },
+        "QQ": {
+            "icon_src": "images/QQ.svg",
+            "href": "tencent://message/?uin=617707527",
+            "hidden_img": null,
+            "width": 0
     }
+ }
 }

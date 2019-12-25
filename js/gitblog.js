@@ -148,12 +148,12 @@ var gitblog = function(config) {
         }
     }
 
-    // var Footer = function() {
-    //     this.page = new Pages();
-    //     this.icons = [];
-    //     this.icon_num = 0;
-    //     this.content = 'Powered by <a href="https://github.com/imuncle/gitblog" target="_blank" style="color: aquamarine;text-decoration:none;border-bottom: 1px solid #79f8d4;">gitblog</a>';
-    // }
+    var Footer = function() {
+        this.page = new Pages();
+        this.icons = [];
+        this.icon_num = 0;
+        this.content = 'Powered by <a href="https://blog.csdn.net/weixin_43622131" target="_blank" style="color: aquamarine;text-decoration:none;border-bottom: 1px solid #79f8d4;">凡人的csdn</a>';
+    }
 
     Footer.prototype = {
         showIcon: function() {
