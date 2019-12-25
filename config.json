@@ -11,7 +11,8 @@
         "state": "open"
     },
     "menu": {
-        "首页":"./"
+        "首页":"./",
+		"机器学习":"issue_per_label.html?label=机器学习"
     },
     "friends": {
         "imuncle" : "https://imuncle.github.io"
