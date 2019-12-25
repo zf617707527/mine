@@ -12,7 +12,10 @@
     },
     "menu": {
         "首页":"./",
-		"机器学习":"issue_per_label.html?label=机器学习"
+		"机器学习":"issue_per_label.html?label=机器学习",
+		"爬虫":"issue_per_label.html?label=爬虫",
+		"python":"issue_per_label.html?label=python",
+		"linux运维":"issue_per_label.html?label=linux运维"
     },
     "friends": {
         "imuncle" : "https://imuncle.github.io"
