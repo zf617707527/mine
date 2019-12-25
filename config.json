@@ -38,6 +38,12 @@
             "href": "tencent://message/?uin=617707527",
             "hidden_img": null,
             "width": 0
-    }
+		},
+		"zhifu": {
+		    "icon_src": "images/zhifu.svg",
+		    "href": null,
+		    "hidden_img": "images/money.png",
+		    "width": 130
+		}
  }
 }
