@@ -15,7 +15,8 @@
 		"机器学习":"issue_per_label.html?label=机器学习",
 		"爬虫":"issue_per_label.html?label=爬虫",
 		"python":"issue_per_label.html?label=python",
-		"linux运维":"issue_per_label.html?label=linux运维"
+		"linux运维":"issue_per_label.html?label=linux运维",
+		"关于我": "content.html?id=12"
     },
     "friends": {
         "大作业" : "https://zf617707527.github.io/-/"
